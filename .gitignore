@@ -1,0 +1,9 @@
+# C# Output folders
+bin
+obj
+
+# IDE Artifacts
+.vscode
+
+# OS Artifacts
+.DS_Store
