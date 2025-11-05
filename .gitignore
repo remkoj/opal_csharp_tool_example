@@ -1,6 +1,7 @@
 # C# Output folders
 bin
 obj
+out
 
 # IDE Artifacts
 .vscode
